@@ -84,19 +84,10 @@ I like thinking across the full stack — product, UX, system design, and execut
 ## 🌱 Currently
 
 - Building in San Francisco
-- Living at [Formosa House](https://davidday.tw/residency/)
-- Working on startup ideas and real products
+- Living at [Formosa Founders House](https://davidday.tw/residency/)
+- Working on startup ideas
 - Improving across engineering, product, and business
 - Learning from ambitious people and high-speed environments
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ericwang520&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericwang520&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
