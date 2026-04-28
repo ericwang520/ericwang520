@@ -21,51 +21,6 @@ For me, engineering is not just about writing code, but about building things th
 
 ---
 
-## 🚀 What I'm Focused On
-
-- Building products from 0 to 1
-- Moving fast while keeping a strong technical foundation
-- Combining product thinking, engineering, and design
-- Exploring startups, software, AI, and scalable systems
-
----
-
-## 🛠 Tech Stack
-
-### Cloud & Infrastructure
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-
-### Backend & API
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![REST](https://img.shields.io/badge/REST-000000?label=API)
-
-### Frontend & Interaction
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-
-### Mobile Development
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
-
-### Data & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-
-### Design & Workflow
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe_CC-FF0000?logo=adobecreativecloud&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
-
----
-
 ## 📌 What I Care About
 
 I care about more than just shipping features.
@@ -84,6 +39,7 @@ I like thinking across the full stack — product, UX, system design, and execut
 ## 🌱 Currently
 
 - Building in San Francisco
+- Jamie's Gap Year Program - Fellow (https://gapyear.tw)
 - Living at [Formosa Founders House](https://davidday.tw/residency/)
 - Working on startup ideas
 - Improving across engineering, product, and business
