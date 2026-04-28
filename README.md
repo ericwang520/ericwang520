@@ -39,7 +39,7 @@ I like thinking across the full stack — product, UX, system design, and execut
 ## 🌱 Currently
 
 - Building in San Francisco
-- Jamie's Gap Year Program - Fellow (https://gapyear.tw)
+- [Jamie's Gap Year Program #4](https://gapyear.tw) - Fellow 
 - Living at [Formosa Founders House](https://davidday.tw/residency/)
 - Working on startup ideas
 - Improving across engineering, product, and business
